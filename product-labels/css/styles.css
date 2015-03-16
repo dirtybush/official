@@ -1,0 +1,15 @@
+html {
+	height: 100%;
+	background-image: url("https: eplcharliechat.files.wordpress.com/2013/05/possum-and-mice-reading.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+body {
+	height: 100%;
+	background-color: hsla(0,0%,0%, .80);
+	margin: 1px;
+
+}	
+	

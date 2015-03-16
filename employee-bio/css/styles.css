@@ -1,0 +1,44 @@
+a {
+	color:hsla(200, 60%,45%, 1);
+	text-decoration: none;
+}
+
+a:hover{
+	color: black;
+}
+.bio{
+	width:30%; 
+	font-family: 'Roboto Slab', serif;
+}
+
+
+
+.bio main h1 {
+	color: red;
+}
+.bio img {
+	max-width: 100%;
+	border-radius: 20px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: black;	
+}
+
+
+.bio h1, .bio h2, {
+	margin: 0;
+
+}
+
+.bio main h2 {
+	font-weight: 200;
+}
+.bio footer{
+	background-color: rgba(0, 0, 0, .1);
+	padding: 20px;
+}	
+
+
+
+
+
