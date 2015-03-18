@@ -1,0 +1,22 @@
+
+/* pseudo classes */
+/*:first-child
+:last-child
+:nth-child(var)
+:first-of-type
+:last-of-type
+:nth-of-type( var)
+
+:link
+:visited
+:hover
+:active*/
+
+/* pseudo elements */
+/*::before
+::after*/
+
+
+body{
+	background-color: red;
+}
